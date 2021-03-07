@@ -14,5 +14,3 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea
-src/out
-src/elementary-java.iml
